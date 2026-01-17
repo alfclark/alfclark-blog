@@ -15,9 +15,9 @@
     "upgrade:dry": "npx @strapi/upgrade latest --dry"
   },
   "dependencies": {
-    "@strapi/provider-upload-local": "5.18.1",
-    "@strapi/plugin-users-permissions": "5.18.1",
-    "@strapi/strapi": "5.18.1",
+    "@strapi/provider-upload-local": "5.33.3",
+    "@strapi/plugin-users-permissions": "5.33.3",
+    "@strapi/strapi": "5.33.3",
     "pg": "8.8.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
