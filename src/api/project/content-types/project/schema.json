@@ -65,7 +65,7 @@
         }
       }
     },
-    "status": {
+    "projectStatus": {
       "type": "enumeration",
       "enum": ["live", "inProgress", "archived"],
       "default": "inProgress",
