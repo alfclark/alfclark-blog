@@ -67,8 +67,8 @@
     },
     "status": {
       "type": "enumeration",
-      "enum": ["live", "in-progress", "archived"],
-      "default": "in-progress",
+      "enum": ["live", "inProgress", "archived"],
+      "default": "inProgress",
       "pluginOptions": {
         "i18n": {
           "localized": false
